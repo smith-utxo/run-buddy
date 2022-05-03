@@ -288,8 +288,13 @@ section {
     color: #fce138; 
 }
 
+.contact-info {
+display: flex; 
+justify-content: space-between;
+flex-wrap: wrap; 
+}
 .contact-info iframe {
-    height: 400px; 
+    height: 300px; 
 }
 .contact-info div {
     color: white;
