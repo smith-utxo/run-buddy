@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Adam T. Smith 
 
-
+### ©️2019 Run Buddy, INC
